@@ -1,5 +1,5 @@
 # Hi, I'm Marko Krstić <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-## I am is a designer, director and code enthusiast
+## I am is a UX/UI designer, Art director and code enthusiast
 
 Currently I am Keeping [Scandic Hotels Booking system](https://www.scandichotels.se/) for more than 270 hotels into shape through the Web and App.
 Making better workflow for WordPress users with [dPlugins hub](https://dplugins.com/).
