@@ -26,7 +26,7 @@ I am a warm person with a "we can do this" attitude who likes to share what he k
 </br>
 
 
-## Latest from dPlugins
+## My personal projects
 [Check out what is happening there](https://markokrstic.com/)
 
 ![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/dPlugins-work.jpg)
