@@ -6,10 +6,7 @@
 🎯 My Goal is to build WordPress Plugins & Tutorials to ensure your workflow works.</br>
 ✨ I love to create collaborating, researching, reading and spending time with my family.</br>
 
-
-[logo]: https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png "Portfolio"
-
-![This is an image](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
+![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
 
 
 
