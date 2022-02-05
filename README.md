@@ -11,7 +11,12 @@
 </br>
 </br>
 
+## Portfolio
+
 ![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
+
+
+[Check out my awesome portfolio](https://markokrstic.com/)
 
 </br>
 </br>
