@@ -8,10 +8,12 @@ Making better workflow for WordPress users with [dPlugins hub](https://dplugins.
 <table>
 <tr>
   <td valign="center">
+
     🎓 Currently I am Keeping [Scandic Hotels Booking system](https://www.scandichotels.se/) for more than 270 hotels into shape through the Web and App. </br>
     🌱 Making better workflow for WordPress users with [dPlugins hub](https://dplugins.com/). </br>
     🎯 My Goal is to Contribute to as many **open source project** as possible. </br>
     ✨ I love to create different types of **contents**. </br>
+    
 <td >
 <!-- # this is my daily.dev card, you can edit this accordingly -->
     <!-- <a href="https://app.daily.dev/Astrodevil"><img src="https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr" width="300" alt="Mr. Ånand's Dev Card"/></a> -->
