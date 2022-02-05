@@ -9,6 +9,8 @@
 
 [logo]: https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png "Portfolio"
 
+![This is an image](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
+
 
 
 <!--
