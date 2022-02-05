@@ -31,9 +31,6 @@ I am a warm person with a "we can do this" attitude who likes to share what he k
 
 ![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/dPlugins-work.jpg)
 
-</br>
-</br>
-
 
 ## Books I like
 
