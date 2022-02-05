@@ -22,9 +22,6 @@ I am a warm person with a "we can do this" attitude who likes to share what he k
 
 [Read more about me](https://markokrstic.com/profile/)
 
-</br>
-</br>
-
 
 ## My personal projects
 [Check out what is happening there](https://markokrstic.com/)
