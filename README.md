@@ -31,7 +31,7 @@ I am a warm person with a "we can do this" attitude who likes to share what he k
 
 ## Books I like
 
-*   [Microcopy: The Complete Guide](The Complete Guide)
+*   [Microcopy: The Complete Guide](https://www.microcopybook.com/)
 *   [The Band Gap](https://www.martyneumeier.com/the-brand-gap/)
 *   [Zag](https://www.martyneumeier.com/zag)
 *   [The Brand Flip](https://www.martyneumeier.com/the-brand-flip)
