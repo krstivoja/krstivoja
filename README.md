@@ -14,16 +14,13 @@
 ## Portfolio
 [Check out my awesome portfolio](https://markokrstic.com/)
 
-</br>
-</br>
-
 ![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
+
+</br>
+</br>
 
 ## Latest from dPlugins
 [Check out what is happening there](https://markokrstic.com/)
-
-</br>
-</br>
 
 ![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
 
