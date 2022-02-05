@@ -12,11 +12,20 @@
 </br>
 
 ## Portfolio
+[Check out my awesome portfolio](https://markokrstic.com/)
+
+</br>
+</br>
 
 ![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
 
+## Latest from dPlugins
+[Check out what is happening there](https://markokrstic.com/)
 
-[Check out my awesome portfolio](https://markokrstic.com/)
+</br>
+</br>
+
+![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
 
 </br>
 </br>
