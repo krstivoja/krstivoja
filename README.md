@@ -8,9 +8,13 @@
 🎯 My Goal is to build WordPress Plugins & Tutorials to ensure your workflow works.</br>
 ✨ I love to create collaborating, researching, reading and spending time with my family.</br>
 
+</br>
+</br>
+
 ![Portfolio](https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png)
 
-
+</br>
+</br>
 
 <!--
 **krstivoja/krstivoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<style type="text/css" rel="stylesheet">
-* { color: red; }
-</style>
