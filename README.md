@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<style type="text/css" rel="stylesheet">
+* { color: red; }
+</style>
