@@ -7,6 +7,10 @@
 ✨ I love to create collaborating, researching, reading and spending time with my family.</br>
 
 
+[logo]: https://github.com/krstivoja/krstivoja/blob/main/img/portfolio.png "Portfolio"
+
+
+
 <!--
 **krstivoja/krstivoja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
