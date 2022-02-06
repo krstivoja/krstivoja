@@ -1,4 +1,4 @@
-# Hi, I'm Marko Krstić <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <br> I am is a UX/UI designer, Art director and Code Enthusiast.
+# Hi, I'm Marko Krstić <img src="https://github.com/krstivoja/krstivoja/blob/main/img/hello.gif" width="29px"> <br> I am is a UX/UI designer, Art director and Code Enthusiast.
 
 ## About
 
