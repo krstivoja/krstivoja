@@ -14,12 +14,10 @@
     <th>Skills</th>
     <th>Tools</th>
     <th>Languages</th>
-    <th>Education</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
