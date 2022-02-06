@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="209px" height="159px" viewBox="0 0 209 159" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tools</title>
+    <g id="tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F9FAFB" x="0" y="0" width="209" height="158" rx="3"></rect>
+        <g id="Group" transform="translate(20.000000, 36.000000)">
+            <polygon id="Fill-1" fill="#D0D7DE" points="0 0.9895 169 0.9895 169 0.0105 0 0.0105"></polygon>
+            <polygon id="Fill-2" fill="#D0D7DE" points="0 17.9895 169 17.9895 169 17.0105 0 17.0105"></polygon>
+            <polygon id="Fill-3" fill="#D0D7DE" points="0 33.9895 169 33.9895 169 33.0105 0 33.0105"></polygon>
+            <polygon id="Fill-4" fill="#D0D7DE" points="0 50.9895 169 50.9895 169 50.0105 0 50.0105"></polygon>
+            <polygon id="Fill-5" fill="#D0D7DE" points="0 66.9895 169 66.9895 169 66.0105 0 66.0105"></polygon>
+            <polygon id="Fill-6" fill="#D0D7DE" points="0 83.9895 169 83.9895 169 83.0105 0 83.0105"></polygon>
+            <polygon id="Fill-7" fill="#FF9A0B" points="0 0.9895 164 0.9895 164 0.0105 0 0.0105"></polygon>
+            <polygon id="Fill-8" fill="#FF9A0B" points="0 17.9895 164 17.9895 164 17.0105 0 17.0105"></polygon>
+            <polygon id="Fill-9" fill="#FF9A0B" points="0 33.9895 135 33.9895 135 33.0105 0 33.0105"></polygon>
+            <polygon id="Fill-10" fill="#FF9A0B" points="0 50.9895 86 50.9895 86 50.0105 0 50.0105"></polygon>
+            <polygon id="Fill-11" fill="#FF9A0B" points="0 66.9895 125 66.9895 125 66.0105 0 66.0105"></polygon>
+            <polygon id="Fill-12" fill="#FF9A0B" points="0 83.9895 141 83.9895 141 83.0105 0 83.0105"></polygon>
+        </g>
+        <g id="Group-2" transform="translate(20.000000, 19.904921)" font-family="Helvetica" font-size="8" font-weight="normal">
+            <text id="Pen-and-Paper" letter-spacing="-0.127" fill="#000000">
+                <tspan x="0" y="8">P</tspan>
+                <tspan x="5.2089375" y="8" letter-spacing="0.073">e</tspan>
+                <tspan x="9.73115625" y="8" letter-spacing="-0.111">n</tspan>
+                <tspan x="14.069375" y="8" letter-spacing="0.073"> a</tspan>
+                <tspan x="20.88725" y="8" letter-spacing="0.0394">n</tspan>
+                <tspan x="25.3758688" y="8" letter-spacing="-0.111">d</tspan>
+                <tspan x="29.7140875" y="8" letter-spacing="0.073"> </tspan>
+                <tspan x="32.0097437" y="8" letter-spacing="-0.0302">P</tspan>
+                <tspan x="37.3154812" y="8" letter-spacing="0.073">a</tspan>
+                <tspan x="41.8377" y="8" letter-spacing="0.0546">p</tspan>
+                <tspan x="46.3415187" y="8" letter-spacing="0.073">er</tspan>
+            </text>
+            <text id="Sketch" letter-spacing="0.267" fill="#000000">
+                <tspan x="0" y="25">S</tspan>
+                <tspan x="5.6029375" y="25" letter-spacing="0.043">k</tspan>
+                <tspan x="9.6459375" y="25" letter-spacing="0.3062">e</tspan>
+                <tspan x="14.4013562" y="25" letter-spacing="0.119">t</tspan>
+                <tspan x="16.7430125" y="25" letter-spacing="0.3022">c</tspan>
+                <tspan x="21.0452125" y="25" letter-spacing="0.043">h</tspan>
+            </text>
+            <text id="Figma-" letter-spacing="0.5448" fill="#000000">
+                <tspan x="0" y="42">F</tspan>
+                <tspan x="5.43151875" y="42" letter-spacing="0.5096">i</tspan>
+                <tspan x="7.7184625" y="42" letter-spacing="0.5728">g</tspan>
+                <tspan x="12.7404813" y="42" letter-spacing="0.5232">m</tspan>
+                <tspan x="19.9277438" y="42">a </tspan>
+            </text>
+            <text id="Principle-App-(Interactions)" letter-spacing="0.0538">
+                <tspan x="0" y="59" fill="#000000">P</tspan>
+                <tspan x="5.3897375" y="59" letter-spacing="0.0114" fill="#000000">r</tspan>
+                <tspan x="8.0652" y="59" letter-spacing="0.065" fill="#000000">i</tspan>
+                <tspan x="9.90754375" y="59" letter-spacing="0.069" fill="#000000">n</tspan>
+                <tspan x="14.4257625" y="59" letter-spacing="0.0938" fill="#000000">c</tspan>
+                <tspan x="18.5195625" y="59" letter-spacing="0.065" fill="#000000">i</tspan>
+                <tspan x="20.3619063" y="59" letter-spacing="0.061" fill="#000000">p</tspan>
+                <tspan x="24.872125" y="59" letter-spacing="0.077" fill="#000000">l</tspan>
+                <tspan x="26.7264688" y="59" letter-spacing="-0.083" fill="#000000">e</tspan>
+                <tspan x="31.0926875" y="59" letter-spacing="0.069" fill="#000000"> </tspan>
+                <tspan x="32.9468438" y="59" letter-spacing="0.1474" fill="#000000">A</tspan>
+                <tspan x="38.4301813" y="59" letter-spacing="0.0794" fill="#000000">p</tspan>
+                <tspan x="42.9588" y="59" letter-spacing="-0.083" fill="#000000">p</tspan>
+                <tspan x="47.3250188" y="59" letter-spacing="0.069" fill="#000000"> </tspan>
+                <tspan x="49.616675" y="59" letter-spacing="0.0932" fill="#666666">(</tspan>
+                <tspan x="52.3739375" y="59" letter-spacing="0.1604" fill="#666666">I</tspan>
+                <tspan x="54.7569938" y="59" letter-spacing="0.21" fill="#666666">n</tspan>
+                <tspan x="59.4162125" y="59" letter-spacing="0.054" fill="#666666">t</tspan>
+                <tspan x="61.6928688" y="59" letter-spacing="0.2036" fill="#666666">e</tspan>
+                <tspan x="66.3456875" y="59" letter-spacing="0.1276" fill="#666666">r</tspan>
+                <tspan x="69.13735" y="59" letter-spacing="0.19" fill="#666666">a</tspan>
+                <tspan x="73.7765688" y="59" letter-spacing="0.4828" fill="#666666">c</tspan>
+                <tspan x="78.2593688" y="59" letter-spacing="0.054" fill="#666666">t</tspan>
+                <tspan x="80.536025" y="59" letter-spacing="0.1316" fill="#666666">i</tspan>
+                <tspan x="82.4449688" y="59" letter-spacing="0.1812" fill="#666666">o</tspan>
+                <tspan x="87.0753875" y="59" letter-spacing="0.1788" fill="#666666">n</tspan>
+                <tspan x="91.7034063" y="59" letter-spacing="-0.07" fill="#666666">s</tspan>
+                <tspan x="95.6334063" y="59" letter-spacing="0.054" fill="#666666">)</tspan>
+            </text>
+            <text id="Adobe-" letter-spacing="0.0132" fill="#000000">
+                <tspan x="0" y="76">A</tspan>
+                <tspan x="5.3491375" y="76" letter-spacing="0.07">do</tspan>
+                <tspan x="14.387575" y="76" letter-spacing="0.0756">b</tspan>
+                <tspan x="18.9123937" y="76" letter-spacing="-0.09">e</tspan>
+                <tspan x="23.2716125" y="76" letter-spacing="0.07"> </tspan>
+            </text>
+            <text id="(Photoshop,-Illustrator)" letter-spacing="0.1212" fill="#666666">
+                <tspan x="29.792" y="76">(</tspan>
+                <tspan x="32.5772625" y="76" letter-spacing="0.1908">P</tspan>
+                <tspan x="38.104" y="76" letter-spacing="0.1996">h</tspan>
+                <tspan x="42.7528188" y="76" letter-spacing="0.198">o</tspan>
+                <tspan x="47.4000375" y="76" letter-spacing="0.05">t</tspan>
+                <tspan x="49.6726938" y="76" letter-spacing="0.1612">o</tspan>
+                <tspan x="54.2831125" y="76" letter-spacing="0.2156">s</tspan>
+                <tspan x="58.4987125" y="76" letter-spacing="0.2004">h</tspan>
+                <tspan x="63.1483313" y="76" letter-spacing="0.2092">o</tspan>
+                <tspan x="67.80675" y="76" letter-spacing="-0.0396">p</tspan>
+                <tspan x="72.2163688" y="76" letter-spacing="0.05">, </tspan>
+                <tspan x="76.7616813" y="76" letter-spacing="0.162">I</tspan>
+                <tspan x="79.1463375" y="76" letter-spacing="0.1652">l</tspan>
+                <tspan x="81.0888813" y="76" letter-spacing="0.1876">l</tspan>
+                <tspan x="83.053825" y="76" letter-spacing="0.2228">u</tspan>
+                <tspan x="87.7258438" y="76" letter-spacing="0.3348">s</tspan>
+                <tspan x="92.0606438" y="76" letter-spacing="0.11">t</tspan>
+                <tspan x="94.3933" y="76" letter-spacing="0.1564">r</tspan>
+                <tspan x="97.2137625" y="76" letter-spacing="0.2676">a</tspan>
+                <tspan x="101.930581" y="76" letter-spacing="0.05">t</tspan>
+                <tspan x="104.203238" y="76" letter-spacing="0.21">o</tspan>
+                <tspan x="108.862456" y="76" letter-spacing="-0.0228">r</tspan>
+                <tspan x="111.503719" y="76" letter-spacing="0.05">)</tspan>
+            </text>
+            <text id="Visual-Studio-Code" letter-spacing="0.314" fill="#000000">
+                <tspan x="0" y="93">V</tspan>
+                <tspan x="5.5093125" y="93" letter-spacing="0.1868">i</tspan>
+                <tspan x="7.47345625" y="93" letter-spacing="0.1732">s</tspan>
+                <tspan x="11.6466562" y="93" letter-spacing="0.2012">u</tspan>
+                <tspan x="16.297075" y="93" letter-spacing="0.2092">a</tspan>
+                <tspan x="20.9554937" y="93" letter-spacing="0.05">l </tspan>
+                <tspan x="25.0554938" y="93" letter-spacing="0.0852">S</tspan>
+                <tspan x="30.4766313" y="93" letter-spacing="0.0988">t</tspan>
+                <tspan x="32.7980875" y="93" letter-spacing="0.2244">u</tspan>
+                <tspan x="37.4717063" y="93" letter-spacing="0.2012">d</tspan>
+                <tspan x="42.122125" y="93" letter-spacing="0.1596">i</tspan>
+                <tspan x="44.0590688" y="93" letter-spacing="0.05">o </tspan>
+                <tspan x="50.8309437" y="93" letter-spacing="0.1716">C</tspan>
+                <tspan x="56.7798875" y="93" letter-spacing="0.1924">o</tspan>
+                <tspan x="61.4215062" y="93" letter-spacing="0.2324">d</tspan>
+                <tspan x="66.103125" y="93" letter-spacing="0.05">e</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
