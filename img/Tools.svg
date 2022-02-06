@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="169px" height="128px" viewBox="0 0 169 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Tools</title>
-    <g id="Tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(0.000000, 16.000000)">
-            <polygon id="Fill-1" fill="#F6F8FA" points="0 0.9895 169 0.9895 169 0.0105 0 0.0105"></polygon>
-            <polygon id="Fill-2" fill="#F6F8FA" points="0 17.9895 169 17.9895 169 17.0105 0 17.0105"></polygon>
-            <polygon id="Fill-3" fill="#F6F8FA" points="0 33.9895 169 33.9895 169 33.0105 0 33.0105"></polygon>
-            <polygon id="Fill-4" fill="#F6F8FA" points="0 50.9895 169 50.9895 169 50.0105 0 50.0105"></polygon>
-            <polygon id="Fill-5" fill="#F6F8FA" points="0 66.9895 169 66.9895 169 66.0105 0 66.0105"></polygon>
-            <polygon id="Fill-6" fill="#F6F8FA" points="0 83.9895 169 83.9895 169 83.0105 0 83.0105"></polygon>
+<svg width="209px" height="159px" viewBox="0 0 209 159" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tools</title>
+    <g id="tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F9FAFB" x="0" y="0" width="209" height="158" rx="3"></rect>
+        <g id="Group" transform="translate(20.000000, 36.000000)">
+            <polygon id="Fill-1" fill="#D0D7DE" points="0 0.9895 169 0.9895 169 0.0105 0 0.0105"></polygon>
+            <polygon id="Fill-2" fill="#D0D7DE" points="0 17.9895 169 17.9895 169 17.0105 0 17.0105"></polygon>
+            <polygon id="Fill-3" fill="#D0D7DE" points="0 33.9895 169 33.9895 169 33.0105 0 33.0105"></polygon>
+            <polygon id="Fill-4" fill="#D0D7DE" points="0 50.9895 169 50.9895 169 50.0105 0 50.0105"></polygon>
+            <polygon id="Fill-5" fill="#D0D7DE" points="0 66.9895 169 66.9895 169 66.0105 0 66.0105"></polygon>
+            <polygon id="Fill-6" fill="#D0D7DE" points="0 83.9895 169 83.9895 169 83.0105 0 83.0105"></polygon>
             <polygon id="Fill-7" fill="#FF9A0B" points="0 0.9895 164 0.9895 164 0.0105 0 0.0105"></polygon>
             <polygon id="Fill-8" fill="#FF9A0B" points="0 17.9895 164 17.9895 164 17.0105 0 17.0105"></polygon>
             <polygon id="Fill-9" fill="#FF9A0B" points="0 33.9895 135 33.9895 135 33.0105 0 33.0105"></polygon>
@@ -16,7 +17,7 @@
             <polygon id="Fill-11" fill="#FF9A0B" points="0 66.9895 125 66.9895 125 66.0105 0 66.0105"></polygon>
             <polygon id="Fill-12" fill="#FF9A0B" points="0 83.9895 141 83.9895 141 83.0105 0 83.0105"></polygon>
         </g>
-        <g id="Group-2" transform="translate(0.000000, -0.095079)" font-family="Helvetica" font-size="8" font-weight="normal">
+        <g id="Group-2" transform="translate(20.000000, 19.904921)" font-family="Helvetica" font-size="8" font-weight="normal">
             <text id="Pen-and-Paper" letter-spacing="-0.127" fill="#000000">
                 <tspan x="0" y="8">P</tspan>
                 <tspan x="5.2089375" y="8" letter-spacing="0.073">e</tspan>
