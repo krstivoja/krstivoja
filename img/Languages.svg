@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="169px" height="128px" viewBox="0 0 169 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Languages</title>
+    <g id="Languages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(0.001500, 14.367500)">
+            <polygon id="Fill-1" fill="#F6F8FA" points="0 0.9895 127.811 0.9895 127.811 0.0105 0 0.0105"></polygon>
+            <polygon id="Fill-2" fill="#F6F8FA" points="0 17.9325 127.811 17.9325 127.811 16.9535 0 16.9535"></polygon>
+            <polygon id="Fill-3" fill="#F6F8FA" points="0 34.8755 127.811 34.8755 127.811 33.8965 0 33.8965"></polygon>
+            <polygon id="Fill-4" fill="#F6F8FA" points="0 51.8195 127.811 51.8195 127.811 50.8405 0 50.8405"></polygon>
+            <polygon id="Fill-5" fill="#F6F8FA" points="0 68.7625 127.811 68.7625 127.811 67.7835 0 67.7835"></polygon>
+            <polygon id="Fill-6" fill="#F6F8FA" points="0 85.0535 127.811 85.0535 127.811 84.0745 0 84.0745"></polygon>
+            <polygon id="Fill-7" fill="#FF9A0B" points="0 0.9895 125.275 0.9895 125.275 0.0105 0 0.0105"></polygon>
+            <polygon id="Fill-8" fill="#FF9A0B" points="0 17.9325 112.476 17.9325 112.476 16.9535 0 16.9535"></polygon>
+            <polygon id="Fill-9" fill="#FF9A0B" points="2.27373675e-13 34.8755 12.946 34.8755 12.946 33.8965 2.27373675e-13 33.8965"></polygon>
+            <polygon id="Fill-10" fill="#FF9A0B" points="0 51.8195 122.697 51.8195 122.697 50.8405 0 50.8405"></polygon>
+            <polygon id="Fill-11" fill="#FF9A0B" points="2.27373675e-13 68.7625 116.674 68.7625 116.674 67.7835 2.27373675e-13 67.7835"></polygon>
+            <polygon id="Fill-12" fill="#FF9A0B" points="2.27373675e-13 85.0535 28.939 85.0535 28.939 84.0745 2.27373675e-13 84.0745"></polygon>
+        </g>
+        <g id="Group-14" transform="translate(0.000000, -0.095379)" fill="#001432" font-family="Helvetica" font-size="8" font-weight="normal">
+            <text id="Serbian" letter-spacing="0.0482">
+                <tspan x="0" y="8">S</tspan>
+                <tspan x="5.3841375" y="8" letter-spacing="0.073">e</tspan>
+                <tspan x="9.90635625" y="8" letter-spacing="0.0098">r</tspan>
+                <tspan x="12.5802188" y="8" letter-spacing="0.0026">b</tspan>
+                <tspan x="17.0320375" y="8" letter-spacing="-0.019">i</tspan>
+                <tspan x="18.7903813" y="8" letter-spacing="0.073">an</tspan>
+            </text>
+            <text id="English" letter-spacing="0.065">
+                <tspan x="0" y="25">E</tspan>
+                <tspan x="5.4009375" y="25" letter-spacing="0.0954">n</tspan>
+                <tspan x="9.94555625" y="25" letter-spacing="0.0914">g</tspan>
+                <tspan x="14.486175" y="25">l</tspan>
+                <tspan x="16.3285188" y="25" letter-spacing="0.0826">i</tspan>
+                <tspan x="18.1884625" y="25" letter-spacing="0.1098">s</tspan>
+                <tspan x="22.2982625" y="25">h</tspan>
+            </text>
+            <text id="Swedish" letter-spacing="-0.053">
+                <tspan x="0" y="42">S</tspan>
+                <tspan x="5.2829375" y="42" letter-spacing="0.011">w</tspan>
+                <tspan x="11.0712813" y="42" letter-spacing="0.071">e</tspan>
+                <tspan x="15.5915" y="42" letter-spacing="0.0542">d</tspan>
+                <tspan x="20.0949187" y="42" letter-spacing="0.0398">i</tspan>
+                <tspan x="21.9120625" y="42" letter-spacing="0.071">sh</tspan>
+            </text>
+            <text id="HTML" letter-spacing="0.065">
+                <tspan x="0" y="59">H</tspan>
+                <tspan x="5.84234375" y="59" letter-spacing="0.0874">T</tspan>
+                <tspan x="10.8164625" y="59" letter-spacing="0.081">M</tspan>
+                <tspan x="17.561525" y="59">L</tspan>
+            </text>
+            <text id="CSS" letter-spacing="0.2308">
+                <tspan x="0" y="76">C</tspan>
+                <tspan x="6.00814375" y="76" letter-spacing="0.062">SS</tspan>
+            </text>
+            <text id="JavaScript" letter-spacing="0.1212">
+                <tspan x="0" y="93">J</tspan>
+                <tspan x="4.1212" y="93" letter-spacing="0.058">a</tspan>
+                <tspan x="8.62841875" y="93" letter-spacing="0.1068">v</tspan>
+                <tspan x="12.7352187" y="93" letter-spacing="0.1276">a</tspan>
+                <tspan x="17.3120375" y="93" letter-spacing="0.1532">S</tspan>
+                <tspan x="22.801175" y="93" letter-spacing="0.1972">c</tspan>
+                <tspan x="26.998375" y="93" letter-spacing="0.0884">r</tspan>
+                <tspan x="29.7508375" y="93" letter-spacing="0.142">i</tspan>
+                <tspan x="31.6701812" y="93" letter-spacing="0.1628">p</tspan>
+                <tspan x="36.2822" y="93" letter-spacing="0.058">t</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
