@@ -18,9 +18,9 @@
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/skills.svg" width="300" alt="Mr. Ånand's Dev Card"/></td>
+    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/tools.svg" width="300" alt="Mr. Ånand's Dev Card"/></td>
+    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/Languages.svg" width="300" alt="Mr. Ånand's Dev Card"/></td>
   </tr>
 </tbody>
 </table>
