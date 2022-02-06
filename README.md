@@ -18,9 +18,9 @@
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/SKILLS.svg" width="300" alt="Skills"/></td>
-    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/Tools.svg" width="300" alt="Tools"/></td>
-    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/Languages.svg" width="300" alt="Languages"/></td>
+    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/skills.svg" width="300" alt="Skills"/></td>
+    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/tools.svg" width="300" alt="Tools"/></td>
+    <td><img src="https://github.com/krstivoja/krstivoja/blob/main/img/languages.svg" width="300" alt="Languages"/></td>
   </tr>
 </tbody>
 </table>
