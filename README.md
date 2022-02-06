@@ -34,7 +34,7 @@
 
 ### With 21 years of experience, I cover a wide range of skills.
 
-But I do not think it's so much about what you know. It's about how you share.
+> But I do not think it's so much about what you know. It's about how you share.
 
 I am a warm person with a "we can do this" attitude who likes to share what he knows and is always willing to learn more and adapt. I enjoy working in teams and have a bit of OCD that everything has to be organized. I like creative masses on my desk from time to time, but never in files and structures.
 
