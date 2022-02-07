@@ -2,10 +2,10 @@
 
 ## About
 
-🎓 Currently I am Keeping [Scandic Hotels Booking system](https://www.scandichotels.se/) for more than 270 hotels into shape through the Web and App.</br>
-🌱 Builing [dPlugins hub](https://dplugins.com/). as my side project.</br>
-🎯 My Goal is to build WordPress Plugins & Tutorials to ensure your workflow works.</br>
-✨ I love to create collaborating, researching, reading and spending time with my family.</br>
+🎓 Currently I am Keeping [Scandic Hotels Booking system](https://www.scandichotels.se/) for more than 270 hotels into shape through the Web and App.</br></br>
+🌱 Builing [dPlugins hub](https://dplugins.com/). as my side project.</br></br>
+🎯 My Goal is to build WordPress Plugins & Tutorials to ensure your workflow works.</br></br>
+✨ I love to create collaborating, researching, reading and spending time with my family.</br></br>
 
 
 <table>
