@@ -1,6 +1,7 @@
 # Hi, I'm Marko Krstić <img src="https://github.com/krstivoja/krstivoja/blob/main/img/hello.gif" width="29px"> <br> I am is a UX/UI designer, Art director and Code Enthusiast.
 
 ## About
+</br>
 
 🎓 Currently I am Keeping [Scandic Hotels Booking system](https://www.scandichotels.se/) for more than 270 hotels into shape through the Web and App.</br></br>
 🌱 Builing [dPlugins hub](https://dplugins.com/). as my side project.</br></br>
